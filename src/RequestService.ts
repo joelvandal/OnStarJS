@@ -14,7 +14,7 @@ import {
   ChargeOverrideOptions,
 } from "./types";
 
-const ONSTAR_API_BASE = "https://api.gm.com/api/v1";
+const ONSTAR_API_BASE = "https://api.shanghaionstar.com/api/v1";
 
 class RequestService {
   private config: OnStarConfig;
